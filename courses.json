@@ -1,0 +1,63 @@
+[
+    {
+      "courseId": "C101",
+      "title": "Introduction to Web Development",
+      "instructor": "Vismaya",
+      "duration": "10 hours",
+      "rating": 4.5,
+      "category": "Web Development",
+      "price": "₹1200",
+      "enrolled": "2500"
+    },
+    {
+      "courseId": "C102",
+      "title": "Advanced JavaScript",
+      "instructor": "Prathiksha",
+      "duration": "15 hours",
+      "rating": 4.7,
+      "category": "Programming",
+      "price": "₹3999",
+      "enrolled": "1800"
+    },
+    {
+      "courseId": "C103",
+      "title": "Python for Data Science",
+      "instructor": "Anusha",
+      "duration": "20 hours",
+      "rating": 4.8,
+      "category": "Data Science",
+      "price": "₹4999",
+      "enrolled": "3200"
+    },
+    {
+      "courseId": "C104",
+      "title": "Machine Learning Basics",
+      "instructor": "Vibha",
+      "duration": "12 hours",
+      "rating": 4.6,
+      "category": "AI & Machine Learning",
+      "price": "₹3599",
+      "enrolled": "2900"
+    },
+    {
+      "courseId": "C105",
+      "title": "UI/UX Design Fundamentals",
+      "instructor": "Meghana",
+      "duration": "8 hours",
+      "rating": 4.2,
+      "category": "Design",
+      "price": "₹2999",
+      "enrolled": "1100"
+    },
+    {
+      "courseId": "C106",
+      "title": "Mobile App Development",
+      "instructor": "Sania",
+      "duration": "18 hours",
+      "rating": 4.9,
+      "category": "Mobile Development",
+      "price": "₹1999",
+      "enrolled": "4100"
+    }
+  ]
+  
